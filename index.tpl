@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     <title>RenderQuest</title>
      <script>
-console.Log("ciao);
+console.Log("ciao");
 </script> 
 </head>
 
