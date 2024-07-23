@@ -39,20 +39,7 @@
                 <h1>Available template data</h1>
                 <hr>
                 <ul>
-                    { ClientIP }
-                    { ClientUA }
-                    { ClientIpInfo.IpVersion }
-                    { ClientIpInfo.IpAddress }
-                    { ClientIpInfo.Latitude }
-                    { ClientIpInfo.Longitude }
-                    { ClientIpInfo.CountryName }
-                    { ClientIpInfo.CountryCode }
-                    { ClientIpInfo.TimeZone }
-                    { ClientIpInfo.ZipCode }
-                    { ClientIpInfo.CityName }
-                    { ClientIpInfo.RegionName }
-                    { ClientIpInfo.Continent }
-                    { ClientIpInfo.ContinentCode }
+            
                     { ServerInfo.Hostname }
                     { ServerInfo.OS }
                     { ServerInfo.KernelVersion }
