@@ -8,6 +8,9 @@
     <link rel="shortcut icon" href="/static/logo.png" type="image/png">
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     <title>RenderQuest</title>
+     <script>
+console.Log("ciao);
+</script> 
 </head>
 
 <body>
